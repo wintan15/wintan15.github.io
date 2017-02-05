@@ -1,20 +1,25 @@
 body{
-	background-color:maroon;
+	background-color:white;
 }
+
+
+p{
+	color:darkgreen;
+	text-align: left;
+}
+
+#head{
+	font-size:100px;
+	width:100%;
+}
+
 .box{
+	float:left;
 	display: inline-block;
 	position:relative;
 	margin:10px;
-	border-width: 2px;
-	padding: 5px;
-}
-p{
-	color:white;
-	text-align: left;
-	border:solid;
-}
-
-head{
-	font-size:24px;
-	font-style:; 
+	border-style: solid;
+	padding: 15px;
+	width: 40%;
+	text-align: top;
 }
