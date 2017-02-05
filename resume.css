@@ -1,0 +1,20 @@
+body{
+	background-color:maroon;
+}
+.box{
+	display: inline-block;
+	position:relative;
+	margin:10px;
+	border-width: 2px;
+	padding: 5px;
+}
+p{
+	color:white;
+	text-align: left;
+	border:solid;
+}
+
+head{
+	font-size:24px;
+	font-style:; 
+}
